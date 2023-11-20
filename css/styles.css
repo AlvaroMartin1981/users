@@ -10,4 +10,23 @@ h1 {
   color: #333;
 }
 
+#listaUsuarios {
+  background-color: azure;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+.usuarioDatos{
+  background-color: aquamarine;
 
+}
+.usuario {
+  border: solid 1px black;
+  justify-content: space-around;
+  
+
+}
+img {
+  width: 200px;
+  height: 200px;
+}
